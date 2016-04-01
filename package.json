@@ -1,0 +1,16 @@
+{
+  "name": "gladiatus-bot",
+  "version": "0.0.1",
+  "description": "A basic nodejs Gladiatus.com Bot",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "spooky": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arcanite",
+  "license": "MIT"
+}
